@@ -26,5 +26,7 @@
   "window.title": "${dirty}vscode${separator}${activeEditorShort}",
   "editor.stickyScroll.enabled": true,
   "editor.wordWrap": "on",
-  "gitlens.hovers.currentLine.over": "line"
+  "gitlens.hovers.currentLine.over": "line",
+  "terminal.integrated.fontFamily": "Fira Code",
+  "terminal.integrated.cursorStyleInactive": "underline"
 }

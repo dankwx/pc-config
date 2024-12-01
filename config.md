@@ -11,3 +11,7 @@
 **SumatraPDF** for pdf reading
 
 **PDFGear** for pdf editing
+
+**Firefox** for general internet browsing
+
+**VSCode** for programming IDE

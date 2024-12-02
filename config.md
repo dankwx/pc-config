@@ -18,6 +18,8 @@
 
 **7zip** for compressed files(zip, rar, 7zip)
 
+**OBS Studio** for screen/video recording
+
 ## VSCode Extensions
 
 Prettier

@@ -20,6 +20,8 @@
 
 **OBS Studio** for screen/video recording
 
+**Everything** for general files search
+
 ## VSCode Extensions
 
 Prettier
